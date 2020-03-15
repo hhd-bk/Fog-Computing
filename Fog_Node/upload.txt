@@ -1,0 +1,1 @@
+scp main.py get_img_from_cam.py find_ip_from_mac.py pi@192.168.1.51:fog_computing\
