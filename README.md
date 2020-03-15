@@ -12,4 +12,5 @@
 - Each can recognize another active nodes and find thier ip addresses.
 - Each node can find and ask for detecting fire in the image. If the node received the request don't have ability to the job, it will send to other node.
 
+Details in file Report.docx
 
